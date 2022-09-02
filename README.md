@@ -1,4 +1,12 @@
-# sarcasm-detection-tweets
+# <center> Sarcasm Detection in Tweets with Machine Learning and Deep Learning </center>
+
+## TABLE OF CONTENTS
+  - [I. Problem Statement](#i-problem-statement)
+  - [II. Dataset](#ii-dataset)
+  - [III. Methodology](#iii-methodology)
+  - [IV. Results and Discussion](#iv-results-and-discussion)
+  - [V. Conclusion](#v-conclusion)
+  - [VI. References](#vi-references)
 
 ## I. Problem Statement
 Sarcasm is the usage of language that normally signifies the opposite to mock or convey contempt. Understanding sarcasm is important as typical sentimental analysis fails to capture the underlying intensions or meanings. In this project, we tackled sarcasm detection on SemEval-2018 (Task 3) English Twitter datasets.
