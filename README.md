@@ -1,5 +1,12 @@
 # <center> Sarcasm Detection in Tweets with Machine Learning and Deep Learning </center>
 
+![](https://img.shields.io/badge/Status-Completed-red)
+![](https://img.shields.io/badge/Domain-Natural%20Language%20Processing-blue)
+![](https://img.shields.io/badge/Language-Python-green)
+![](https://img.shields.io/badge/Package-Scikit--Learn-orange)
+![](https://img.shields.io/badge/Package-PyTorch-orange)
+![](https://img.shields.io/badge/Package-Hugging%20Face-orange)
+
 ## TABLE OF CONTENTS
   - [I. Problem Statement](#i-problem-statement)
   - [II. Dataset](#ii-dataset)
